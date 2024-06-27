@@ -1,6 +1,6 @@
 {
-  "name": "jam-project-03-currencyconverter",
-  "version": "1.0.0",
+  "name": "projectcurrencyconverter-jam04",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -10,5 +10,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ansi-colors": "^4.1.3"
+  }
 }
